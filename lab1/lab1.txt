@@ -1,0 +1,8 @@
+part 1) python, c, HTML, JavaScript, and perl 
+
+part 2) xxd creates a hex dump of a given file or standard input.  It can also
+       convert a hex dump back to its original binary form. 
+
+part 3) 0000
+       26th: 00
+       27th: 00
